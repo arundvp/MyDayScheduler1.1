@@ -59,14 +59,4 @@ textarea {
 }
 
 
-.past {
-  background-color: #d3d3d3; /* Grey color for past time blocks */
-}
 
-.present {
-  background-color: #ff6961; /* Red color for present time block */
-}
-
-.future {
-  background-color: #77dd77; /* Green color for future time blocks */
-}
