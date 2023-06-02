@@ -61,6 +61,7 @@ Hosted the index.html in GitHub Pages
 ## Links
 
 URL to my deployed webpage: https://arundvp.github.io/MyDayScheduler1.1/
+
 URL to the GitHub repository: https://github.com/arundvp/MyDayScheduler1.1
 
 ![Screenshot for the webpage](./assets/images/my-work-scheduler-app.png)
