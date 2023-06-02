@@ -53,7 +53,7 @@ This code is written using jQuery and executes when the document is ready. Let's
 
 Created the GIT repository named MyDayScheduler1.1
 
-Pushed the code the repository MyDayScheduler1.1
+Pushed the code to the repository MyDayScheduler1.1
 
 Hosted the index.html in GitHub Pages
 
