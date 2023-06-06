@@ -31,17 +31,17 @@ textarea {
 }
 
 .past {
-  background-color: lightgray !important;
+  background-color: lightgray;
   color: white;
 }
 
 .present {
-  background-color: red !important;
+  background-color: red;
   color: white;
 }
 
 .future {
-  background-color: lightgreen !important;
+  background-color: lightgreen;
   color: white;
 }
 
@@ -57,3 +57,6 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+
+
